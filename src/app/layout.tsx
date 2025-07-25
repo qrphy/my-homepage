@@ -9,12 +9,12 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: "Furkan Titiz",
-  description: "Frontend Developer sharing projects and collaborating on GitHub",
-  keywords: ["frontend", "developer", "react", "javascript", "portfolio"],
+  description: "Frontend Developer",
+  keywords: ["furkan", "titiz", "frontend", "developer"],
   authors: [{ name: "Furkan Titiz" }],
   openGraph: {
     title: "Furkan Titiz",
-    description: "Frontend Developer sharing projects and collaborating on GitHub",
+    description: "Frontend Developer",
     type: "website",
   },
 };
